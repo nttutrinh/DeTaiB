@@ -1,3 +1,6 @@
+Hello everyone.
+I'm Trinh.
+I'm from Quang Nam provide.
 Open connection to SQL Server database
 SQLServerConnection Conn;
 try
